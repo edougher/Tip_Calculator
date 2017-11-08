@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="btn_charge">Calculate Tip</string>
+    <string name="description">Food</string>
+    <string name="prompt">Select Tip</string>
+    <string name="txt_cost">Meal Cost</string>
+    <string name="text_title">Meal Total</string>
+    <string-array name="tipGroup">
+        <item>5%</item>
+        <item>10%</item>
+        <item>15%</item>
+        <item>20%</item>
+        <item>25%</item>
+    </string-array>
+</resources>
